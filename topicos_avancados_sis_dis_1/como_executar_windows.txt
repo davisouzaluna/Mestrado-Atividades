@@ -1,0 +1,15 @@
+Caso voce esteja no windows, tenha o gcc e cmake instalados :)
+
+Primeiro crie um diretorio build:
+
+- mkdir build && cd build
+
+logo apos, compile:
+
+- cmake ..
+
+por ultimo crie o executavel:
+
+- cmake --build . --config Release
+
+O executavel ta dentro de Release

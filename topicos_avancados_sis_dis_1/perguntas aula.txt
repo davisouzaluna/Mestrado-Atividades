@@ -1,0 +1,15 @@
+Por que o software se adapta?
+
+R- Para manter o usuário na faixa ideal de engajamento, evitando tanto o tédio (quando o desafio está muito fácil) quanto a frustração (quando está muito difícil)
+______________________________
+2. Quando ele se adapta ?
+
+R- logo após cada resposta submetida pelo usuário. No código, logo apos o while
+______________________________
+3. O que ele adapta ?
+
+R- O parâmetro de dificuldade(nível 1 a 3) e de maneira indireta o intervalo numérico.
+______________________________
+4. Como ele adapta ?
+
+R- Através de uma contagem de estados. Se o usuário acumula 2 acertos seguidos, o nível é incrementado. Se o usuário erra a resposta, o nível é decrementado para regredir a dificuldade.
