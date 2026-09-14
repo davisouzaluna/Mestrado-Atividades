@@ -1,0 +1,4 @@
+C:/Users/Sdavi/Documents/Mestrado-Atividades/topicos_avancados_sis_dis_1/build/CMakeFiles/QuizMatematicoEx2.dir
+C:/Users/Sdavi/Documents/Mestrado-Atividades/topicos_avancados_sis_dis_1/build/CMakeFiles/QuizMatematicoEx3.dir
+C:/Users/Sdavi/Documents/Mestrado-Atividades/topicos_avancados_sis_dis_1/build/CMakeFiles/edit_cache.dir
+C:/Users/Sdavi/Documents/Mestrado-Atividades/topicos_avancados_sis_dis_1/build/CMakeFiles/rebuild_cache.dir

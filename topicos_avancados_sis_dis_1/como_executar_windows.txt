@@ -13,3 +13,9 @@ por ultimo crie o executavel:
 - cmake --build . --config Release
 
 O executavel ta dentro de Release
+
+
+
+no vs code pode fazer isso(dentro de build):
+
+cmake -G "MinGW Makefiles" ..
