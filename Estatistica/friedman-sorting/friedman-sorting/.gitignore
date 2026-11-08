@@ -1,0 +1,8 @@
+c/bench
+c/friedman
+saida*/
+data/resultados.csv
+data/resultados_rapido.csv
+__pycache__/
+*.pyc
+.venv/
